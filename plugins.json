@@ -34,8 +34,8 @@
     "shell"
    ],
    "capabilityRedLines": [],
-   "install": "dsh plugin --profile desktop add https://github.com/CN54NB/dsh-light/releases/download/v1.0.0/dsh-light-1.0.0.tgz",
-   "tarball": "https://github.com/CN54NB/dsh-light/releases/download/v1.0.0/dsh-light-1.0.0.tgz",
+   "install": "dsh plugin --profile desktop add https://codeload.github.com/CN54NB/dsh-light/tar.gz/refs/tags/v1.0.0",
+   "tarball": "https://codeload.github.com/CN54NB/dsh-light/tar.gz/refs/tags/v1.0.0",
    "added": "2026-11-15",
    "icon": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NCIgaGVpZ2h0PSI2NCIgdmlld0JveD0iMCAwIDY0IDY0Ij48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImciIHgxPSIwIiB5MT0iMCIgeDI9IjEiIHkyPSIxIj48c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMmY4MWY3Ii8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjYTc4YmZhIi8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByeD0iMTQiIGZpbGw9InVybCgjZykiLz48dGV4dCB4PSIzMiIgeT0iNDIiIGZvbnQtZmFtaWx5PSJzeXN0ZW0tdWksc2Fucy1zZXJpZiIgZm9udC1zaXplPSIyNiIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iI2ZmZiIgdGV4dC1hbmNob3I9Im1pZGRsZSI+ZGw8L3RleHQ+PC9zdmc+"
   }
